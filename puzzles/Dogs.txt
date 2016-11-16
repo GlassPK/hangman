@@ -1,0 +1,26 @@
+Dog Breeds
+samoyed
+pug
+australian shepherd
+pekingese
+bernese mountain dog
+cavachon
+corgi
+saint bernard
+poodle
+shih tzu
+pit bull
+rottweiler
+doberman pinscher
+chow chow
+great dane
+yorkshire terrier
+maltese
+golden retriever
+english mastiff
+jack russel terrier
+havanese
+alaskan malamute
+french bulldog
+pointer
+bichon frise
